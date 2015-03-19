@@ -1,0 +1,21 @@
+[submodule "TCP"]
+	path = TCP
+	url = https://github.com/kaddopur/TCP
+[submodule "RootFileManager"]
+	path = RootFileManager
+	url = https://github.com/harddevelop/RootFileManager
+[submodule "Build.prop-Editor"]
+	path = Build.prop-Editor
+	url = https://github.com/nathanpc/Build.prop-Editor.git
+[submodule "smarthosts"]
+	path = smarthosts
+	url = https://github.com/smarthosts/smarthosts
+[submodule "hosts-editor-android"]
+	path = hosts-editor-android
+	url = https://github.com/Nilhcem/hosts-editor-android
+[submodule "WiFiPasswordViewerProject"]
+	path = WiFiPasswordViewerProject
+	url = https://github.com/yknx4/WiFiPasswordViewerProject
+[submodule "ad-away"]
+	path = ad-away
+	url = https://github.com/dschuermann/ad-away
